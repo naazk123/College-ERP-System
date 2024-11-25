@@ -1,0 +1,18 @@
+table, th, td {
+            style="display:table; width:100%; border:2px solid black; width:100%;
+            width: 100%;
+            border:2px solid black;
+            border-collapse: collapse;
+        }
+        th, td {
+            padding: 20px;
+        }
+        /* form {
+          overflow: auto;
+        }
+        div.card {
+
+        } */
+        .tbMap{
+          margin-top: 0px;
+        }
